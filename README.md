@@ -2,7 +2,7 @@ Developed a Java-based typing test application designed to evaluate typing speed
 
 Key features include:
 
-Mode Selection: Allows users to choose from three difficulty levels—Normal, Medium, and Hard—to tailor the typing test to their skill level.
+Mode Selection: Allows users to choose from three difficulty levels—Normal, Medium, and Hard—to tailor the typing test to their skill level.   
 Random Word Selection: Selects 10 unique words randomly from a predefined list, ensuring a diverse and engaging typing challenge.
 Real-Time Typing Assessment: Measures typing speed in words per minute (WPM) by comparing user input against the displayed words and calculating the time taken.
 User Interface Enhancements: Utilizes ANSI escape codes to modify terminal text and background colors for a visually appealing experience.
